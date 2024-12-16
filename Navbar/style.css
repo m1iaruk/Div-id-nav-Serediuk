@@ -13,9 +13,6 @@
     font-size: 16px;
 }
 
-#blok1 a {
-    color: #e951cd; 
-}
 
 #blok2 {
     background-color: #bab2b1; 
@@ -30,10 +27,6 @@
 
 #blok2 p {
     font-size: 16px;
-}
-
-#blok2 a {
-    color: #c3d1c3; 
 }
 
 
@@ -52,6 +45,3 @@
     font-size: 16px;
 }
 
-#blok3 a {
-    color: #284029; 
-}
